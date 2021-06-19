@@ -7,9 +7,9 @@ This example shows how to control 4 ESCs using PWM, and how to read throttle fro
 ## What you need to run this example
 
 - a Raspberry Pi Pico microcontroller
-- Arduino IDE versione 1.8.x
+- Arduino IDE version 1.8.x
 - Arduino MBED OS RP2040 Boards version 2.1.0 
-- FlySky transmittere & receiver with IBUS capabilities (I used FS-I6 and FS-IA6B)
+- FlySky transmitter & receiver with IBUS capabilities (I used FS-I6 and FS-IA6B)
 - 4 ESCs and brushless motors (I used a custom quadcopter)
 
 ## Connections
